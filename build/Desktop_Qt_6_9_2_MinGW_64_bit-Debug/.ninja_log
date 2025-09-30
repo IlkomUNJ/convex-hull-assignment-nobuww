@@ -1,0 +1,19 @@
+# ninja log v6
+4801	5115	7809300353323284	untitled.exe	2f2194a9dfbcd4d0
+934	4801	7809300314651478	CMakeFiles/untitled.dir/drawingcanvas.cpp.obj	904196cda9a8a5a
+923	4529	7809300314546290	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	d3af28bbbafbe37
+938	4563	7809300314691470	CMakeFiles/untitled.dir/drawingwindow.cpp.obj	595840d1af20a802
+928	4233	7809300314596283	CMakeFiles/untitled.dir/main.cpp.obj	51e4e4036760b1a5
+44	922	7809300313455145	C:/Users/User/Documents/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	c64d9d04dd39b05
+44	922	7809300313455145	C:/Users/User/Documents/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	c64d9d04dd39b05
+44	922	7809300313455145	untitled_autogen/mocs_compilation.cpp	c64d9d04dd39b05
+44	922	7809300313455145	untitled_autogen/timestamp	c64d9d04dd39b05
+50	1069	7809308118001238	untitled_autogen/timestamp	c64d9d04dd39b05
+50	1069	7809308118001238	untitled_autogen/mocs_compilation.cpp	c64d9d04dd39b05
+50	1069	7809308118001238	C:/Users/User/Documents/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	c64d9d04dd39b05
+50	1069	7809308118001238	C:/Users/User/Documents/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	c64d9d04dd39b05
+1085	4106	7809308119146390	CMakeFiles/untitled.dir/drawingwindow.cpp.obj	595840d1af20a802
+1075	4219	7809308119055953	CMakeFiles/untitled.dir/main.cpp.obj	51e4e4036760b1a5
+1070	4313	7809308119005408	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	d3af28bbbafbe37
+1080	4840	7809308119100995	CMakeFiles/untitled.dir/drawingcanvas.cpp.obj	904196cda9a8a5a
+4840	5179	7809308156696454	untitled.exe	2f2194a9dfbcd4d0
